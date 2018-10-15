@@ -24,9 +24,11 @@ Put this project into your GitHub and take a screenshot of it.
 # SAMPLE OUTPUT SCREEN
 ![alt text](https://uat.instructure.com/courses/1968/files/221455/preview?verifier=U20YROddANg3Z1MeYgilHoxkgVl0oV4jd3MJcUiq)
 # Algorithm code to use for our Binary Search
+```
 int targetLocationPrediction = ((searchGridHighNumber - searchGridLowNumber) / 2) + searchGridLowNumber;
+```
 You could also call targetLocationPrediction guess if you would like. 
-#Submission
+# Submission
 A screen shot of the Skynet HK-Aerial program working.
 Your actual .cpp file. Not a screen shot and not the entire project.
 A screen shot of your entire project in GitHub
