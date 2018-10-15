@@ -29,7 +29,7 @@ int targetLocationPrediction = ((searchGridHighNumber - searchGridLowNumber) / 2
 ```
 You could also call targetLocationPrediction guess if you would like. 
 # Submission
-A screen shot of the Skynet HK-Aerial program working.
-Your actual .cpp file. Not a screen shot and not the entire project.
-A screen shot of your entire project in GitHub
-Do not zip these three files.
+* A screen shot of the Skynet HK-Aerial program working.
+* Your actual .cpp file. Not a screen shot and not the entire project.
+* A screen shot of your entire project in GitHub
+* Do not zip these three files.
